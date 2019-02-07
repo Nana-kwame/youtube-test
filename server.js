@@ -1,6 +1,8 @@
 var express = require('express');
-import * as bodyParser from 'body-parser';
-import * as xml2Parser from 'xml2json';
+var bodyParser = require('body-parser');
+// var xml2Parser = require('xml2json');
+
+
 
 var app = express();
 
